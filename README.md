@@ -1,6 +1,6 @@
 # **Hello, World! I am Kimwater :)**
 <br>
-<p align="center"><img src="https://user-images.githubusercontent.com/97582839/177119073-08bcfb2f-ff3c-4fab-8d5b-428f810a296b.jpg" width="300px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/97582839/177119073-08bcfb2f-ff3c-4fab-8d5b-428f810a296b.jpg" width="450px"></p>
 <br>
 
 ## **Repository List**
