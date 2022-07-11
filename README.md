@@ -19,5 +19,6 @@
 <br>
 
 ### 🔒 **Private**
-- `Coding-Test-Study` : 코딩테스트를 준비하는 공간 (업로드 예정)
+- `Coding-Test-Study` : 코딩테스트를 준비하는 공간 (진행중)
+- `Node.js-Study` : **Node.js**에 대해 개인적으로 정리하는 공간 (진행중)
 - ~~`JS_study` : JavaScript에 대해 개인적으로 정리하는 공간~~ (CS-Study에 병합)
