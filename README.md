@@ -12,7 +12,7 @@
 
 - [`IAMKimwater`](https://github.com/iamkimwater/IAMKimwater.git) : My GitHub Profile :)
 - [`CS-Study`](https://github.com/iamkimwater/CS-Study.git) : **CS**에 대해 개인적으로 정리하는 공간
-- [`Node.js-Study`](https://github.com/iamkimwater/Node.js-Study) : **Node.js**에 대해 개인적으로 정리하는 공간
+- [`Node-Study`](https://github.com/iamkimwater/Node-Study) : **Node.js**에 대해 개인적으로 정리하는 공간
 - [`CodingTest-Study`](https://github.com/iamkimwater/CodingTest-Study) : **Coding Test**를 준비하는 공간
 - [`Elice-4th-AI-Track`](https://github.com/iamkimwater/Elice-AI-4th-Track.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 학습한 내용을 담은 공간
 - [`1st-team-project`](https://github.com/iamkimwater/1st-team-project.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 참여한 첫 번째 팀 프로젝트
