@@ -13,13 +13,15 @@
 - [`IAMKimwater`](https://github.com/iamkimwater/IAMKimwater.git) : My GitHub Profile :)
 - [`CS-Study`](https://github.com/iamkimwater/CS-Study.git) : **CS**에 대해 개인적으로 정리하는 공간
 - [`Node-Study`](https://github.com/iamkimwater/Node-Study) : **Node.js**에 대해 개인적으로 정리하는 공간
-- [`CodingTest-Study`](https://github.com/iamkimwater/CodingTest-Study) : **Coding Test**를 준비하는 공간
+- [`Frontend-Study`](https://github.com/iamkimwater/Frontend-Study) : **Frontend** 기술스택에 대해 개인적으로 정리하는 공간
 - [`Elice-4th-AI-Track`](https://github.com/iamkimwater/Elice-AI-4th-Track.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 학습한 내용을 담은 공간
 - [`1st-team-project`](https://github.com/iamkimwater/1st-team-project.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 참여한 첫 번째 팀 프로젝트
 - [`2nd-team-project`](https://github.com/iamkimwater/2nd-team-project.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 참여한 두 번째 팀 프로젝트
-- [`Se-Mo-Co-Ji`](https://github.com/iamkimwater/Se-Mo-Co-Ji) : 이렇게 저렇게 수집한 **세상의 모든 코딩 지식**
 
 <br>
 
 ### 🔒 **Private**
 - ~~`JS_study` : JavaScript에 대해 개인적으로 정리하는 공간~~ (CS-Study에 병합)
+- [`CodingTest-Study`] : Coding Test를 준비하는 공간
+- [`overcome_covid19_and_lowspirit`] : 노잼시기와 코로나후유증 벗어나기
+- [`Se-Mo-Co-Ji`] : 이렇게 저렇게 수집한 세상의 모든 코딩 지식
