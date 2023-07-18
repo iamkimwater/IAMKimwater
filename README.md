@@ -15,6 +15,7 @@
 - [`Node-Study`](https://github.com/iamkimwater/Node-Study) : **Node.js**에 대해 개인적으로 정리하는 공간
 - [`1st-team-project`](https://github.com/iamkimwater/1st-team-project.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 참여한 첫 번째 팀 프로젝트
 - [`2nd-team-project`](https://github.com/iamkimwater/2nd-team-project.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 참여한 두 번째 팀 프로젝트
+- [`PupSteps`](https://github.com/iamkimwater/PupSteps) : **React Native** 개인 프로젝트
 
 <br>
 
