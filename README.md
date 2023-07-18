@@ -1,4 +1,5 @@
 # **Hello, World! I am Kimwater :)**
+## ⭐⭐⭐ **이력서 포트폴리오 자기소개** : [`Click!`](https://iamkimwater.notion.site/5e08ba8d0c234181ba111da054f1b9a9?pvs=4) ⭐⭐⭐
 
 <br>
 
@@ -10,12 +11,12 @@
 
 ### 🔓 **Public**
 - [`PupSteps`](https://github.com/iamkimwater/PupSteps) : **React Native** 개인 프로젝트
-  
 - [`IAMKimwater`](https://github.com/iamkimwater/IAMKimwater.git) : My GitHub Profile :)
 - [`CS-Study`](https://github.com/iamkimwater/CS-Study.git) : **CS**에 대해 개인적으로 정리하는 공간
 - [`Node-Study`](https://github.com/iamkimwater/Node-Study) : **Node.js**에 대해 개인적으로 정리하는 공간
 - [`1st-team-project`](https://github.com/iamkimwater/1st-team-project.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 참여한 첫 번째 팀 프로젝트
 - [`2nd-team-project`](https://github.com/iamkimwater/2nd-team-project.git) : 🐰**엘리스 AI트랙 4기 레이서**🏁 로서 참여한 두 번째 팀 프로젝트
+
 
 <br>
 
