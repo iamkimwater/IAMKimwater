@@ -1,5 +1,5 @@
 # **Hello, World! I am Kimwater :)**
-## ⭐⭐⭐ **이력서 포트폴리오 자기소개** : [`Click!`](https://iamkimwater.notion.site/5e08ba8d0c234181ba111da054f1b9a9?pvs=4) ⭐⭐⭐
+## ⭐⭐⭐ **이력서 포트폴리오 자기소개** : [`Click!`](https://iamkimwater.notion.site/d55ac9493eef484a8dea61819705c71d?pvs=4) ⭐⭐⭐
 
 <br>
 
