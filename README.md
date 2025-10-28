@@ -2,9 +2,6 @@
 
 <br>
 
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/97582839/177119073-08bcfb2f-ff3c-4fab-8d5b-428f810a296b.jpg" width="70%">
-</p>
 
 ## 📌 **Repository List**
 
