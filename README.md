@@ -1,7 +1,7 @@
 # **Hello, World! I am Kimwater :)**
 
 ## 📌 **Dev Portfolio**
-- [`Notion Page`]([https://github.com/iamkimwater/G-Form](https://www.notion.so/iamkimwater/Dev-Portfolio-8cf8d2696e624b18bfd836c94bfe7515?source=copy_link))
+- [`Notion Page`](https://www.notion.so/iamkimwater/Dev-Portfolio-8cf8d2696e624b18bfd836c94bfe7515?source=copy_link)
 
 <br>
 
