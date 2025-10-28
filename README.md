@@ -1,7 +1,5 @@
 # **Hello, World! I am Kimwater :)**
 
-<br>
-
 
 ## 📌 **Repository List**
 
